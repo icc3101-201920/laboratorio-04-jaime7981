@@ -1,0 +1,11 @@
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\bin\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.deps.json
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\bin\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.runtimeconfig.json
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\bin\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.runtimeconfig.dev.json
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\bin\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.dll
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\bin\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.pdb
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\obj\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.csprojAssemblyReference.cache
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\obj\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\obj\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\obj\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.AssemblyInfo.cs
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\obj\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.dll
+C:\Users\jaime\Desktop\ICC3103-OOP-Solucion-Lab-03-master\Laboratorio_3_OOP_201902\obj\Debug\netcoreapp2.1\Laboratorio_3_OOP_201902.pdb
